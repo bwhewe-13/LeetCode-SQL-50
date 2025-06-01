@@ -8,16 +8,16 @@ https://leetcode.com/studyplan/top-sql-50/
     - [x] Big Countries
     - [x] Article Views I
     - [x] Invalid Tweets
-- [ ] Basic Joins
-    - [ ] Replace Employee ID With The Unique Identifier
-    - [ ] Product Sales Analysis I
-    - [ ] Customer Who Visited but Did Not Make Any Transactions
-    - [ ] Rising Temperature
-    - [ ] Average Time of Process per Machine
-    - [ ] Employee Bonus
-    - [ ] Students and Examinations
-    - [ ] Managers with at Least 5 Direct Reports
-    - [ ] Confirmation Rate
+- [x] Basic Joins
+    - [x] Replace Employee ID With The Unique Identifier
+    - [x] Product Sales Analysis I
+    - [x] Customer Who Visited but Did Not Make Any Transactions
+    - [x] Rising Temperature
+    - [x] Average Time of Process per Machine
+    - [x] Employee Bonus
+    - [x] Students and Examinations
+    - [x] Managers with at Least 5 Direct Reports
+    - [x] Confirmation Rate
 - [ ] Basic Aggragate Functions
     - [ ] Not Boring Movies
     - [ ] Average Selling Price
