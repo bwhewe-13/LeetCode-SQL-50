@@ -18,15 +18,15 @@ https://leetcode.com/studyplan/top-sql-50/
     - [x] Students and Examinations
     - [x] Managers with at Least 5 Direct Reports
     - [x] Confirmation Rate
-- [ ] Basic Aggragate Functions
-    - [ ] Not Boring Movies
-    - [ ] Average Selling Price
-    - [ ] Project Employees I
-    - [ ] Percentage of Users Attended a Contest
-    - [ ] Queries Quality and Percentage
-    - [ ] Monthly Transactions I
-    - [ ] Immediate Food Delivery II
-    - [ ] Game Play Analysis IV
+- [x] Basic Aggragate Functions
+    - [x] Not Boring Movies
+    - [x] Average Selling Price
+    - [x] Project Employees I
+    - [x] Percentage of Users Attended a Contest
+    - [x] Queries Quality and Percentage
+    - [x] Monthly Transactions I
+    - [x] Immediate Food Delivery II
+    - [x] Game Play Analysis IV
 - [ ] Sorting and Grouping
     - [ ] Number of Uniuqe Subjects Taught by Each Teacher
     - [ ] User Activity for the Past 30 Dats I
