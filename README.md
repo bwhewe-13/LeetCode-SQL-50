@@ -27,14 +27,14 @@ https://leetcode.com/studyplan/top-sql-50/
     - [x] Monthly Transactions I
     - [x] Immediate Food Delivery II
     - [x] Game Play Analysis IV
-- [ ] Sorting and Grouping
-    - [ ] Number of Uniuqe Subjects Taught by Each Teacher
-    - [ ] User Activity for the Past 30 Dats I
-    - [ ] Product Sales Analysis III
-    - [ ] Classes More Than 5 Students
-    - [ ] Find Followers Count
-    - [ ] Biggest Single Number
-    - [ ] Customers Who Bough All Products
+- [x] Sorting and Grouping
+    - [x] Number of Uniuqe Subjects Taught by Each Teacher
+    - [x] User Activity for the Past 30 Dats I
+    - [x] Product Sales Analysis III
+    - [x] Classes With at Least 5 Students
+    - [x] Find Followers Count
+    - [x] Biggest Single Number
+    - [x] Customers Who Bough All Products
 - [ ] Advanced Select and Joins
     - [ ] The Number of Employees Which Report to Each Employee
     - [ ] Primary Department for Each Employee
