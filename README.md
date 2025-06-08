@@ -35,17 +35,17 @@ https://leetcode.com/studyplan/top-sql-50/
     - [x] Find Followers Count
     - [x] Biggest Single Number
     - [x] Customers Who Bough All Products
-- [ ] Advanced Select and Joins
-    - [ ] The Number of Employees Which Report to Each Employee
-    - [ ] Primary Department for Each Employee
-    - [ ] Triangle Judgement
-    - [ ] Consecutive Numbers
-    - [ ] Product Price at a Given Date
-    - [ ] Last Person to Fit in the Bus
-    - [ ] Count Salary Categories
+- [x] Advanced Select and Joins
+    - [x] The Number of Employees Which Report to Each Employee
+    - [x] Primary Department for Each Employee
+    - [x] Triangle Judgement
+    - [x] Consecutive Numbers
+    - [x] Product Price at a Given Date
+    - [x] Last Person to Fit in the Bus
+    - [x] Count Salary Categories
 - [ ] Subqueries
-    - [ ] Employees Whose Manager Left the Company
-    - [ ] Exchange Seats
+    - [x] Employees Whose Manager Left the Company
+    - [x] Exchange Seats
     - [ ] Movie Rating
     - [ ] Restaurant Growth
     - [ ] Friend Requests II: Who Has the Most Friends
