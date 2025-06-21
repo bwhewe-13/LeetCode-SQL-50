@@ -44,18 +44,18 @@ https://leetcode.com/studyplan/top-sql-50/
     - [x] Last Person to Fit in the Bus
     - [x] Count Salary Categories
 - [ ] Subqueries
-    - [x] Employees Whose Manager Left the Company
-    - [x] Exchange Seats
+    - [ ] Employees Whose Manager Left the Company
+    - [ ] Exchange Seats
     - [ ] Movie Rating
     - [ ] Restaurant Growth
     - [ ] Friend Requests II: Who Has the Most Friends
     - [ ] Investments in 2016
     - [ ] Department Top Three Salaries
-- [ ] Advanced String Functions / Regex / Clause
-    - [ ] Fix Names in a Table
-    - [ ] Patients With a Condition
-    - [ ] Delete Duplicate Emails
-    - [ ] Second Highest Salary
-    - [ ] Group Sold Products By The Date
-    - [ ] List the Products Ordered in a Period
-    - [ ] Find Users With Valid E-Mails
+- [x] Advanced String Functions / Regex / Clause
+    - [x] Fix Names in a Table
+    - [x] Patients With a Condition
+    - [x] Delete Duplicate Emails
+    - [x] Second Highest Salary
+    - [x] Group Sold Products By The Date
+    - [x] List the Products Ordered in a Period
+    - [x] Find Users With Valid E-Mails
