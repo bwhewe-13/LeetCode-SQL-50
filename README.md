@@ -43,14 +43,14 @@ https://leetcode.com/studyplan/top-sql-50/
     - [x] Product Price at a Given Date
     - [x] Last Person to Fit in the Bus
     - [x] Count Salary Categories
-- [ ] Subqueries
-    - [ ] Employees Whose Manager Left the Company
-    - [ ] Exchange Seats
-    - [ ] Movie Rating
-    - [ ] Restaurant Growth
-    - [ ] Friend Requests II: Who Has the Most Friends
-    - [ ] Investments in 2016
-    - [ ] Department Top Three Salaries
+- [x] Subqueries
+    - [x] Employees Whose Manager Left the Company
+    - [x] Exchange Seats
+    - [x] Movie Rating
+    - [x] Restaurant Growth
+    - [x] Friend Requests II: Who Has the Most Friends
+    - [x] Investments in 2016
+    - [x] Department Top Three Salaries
 - [x] Advanced String Functions / Regex / Clause
     - [x] Fix Names in a Table
     - [x] Patients With a Condition
